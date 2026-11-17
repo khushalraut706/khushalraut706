@@ -1,8 +1,8 @@
 
 #  💫 Abot Me:
 
-- 💻 Aspiring Full Stack Developer || developer from India
-  || Java Programme || Hackerrank Programmer ⭐|| Problem Solving Enthusiast || GFG 
+- 💻 Aspiring Full Stack Developer 👨‍💻|| developer from India
+  || Java Programme || Hackerrank Programmer ⭐|| Problem Solving Enthusiast || GFG || @java
 
 - 📔 Currently pursuing B.Tech in Computer Science & Engineering.
 
