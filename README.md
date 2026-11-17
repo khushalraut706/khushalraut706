@@ -1,8 +1,7 @@
 
-# 👋 Hi, I'm Khushal Raut
+# 👋 Abot Me:
 
-### 💻 Aspiring Full Stack Developer | developer from India | Java Programmer | Hackerrank Programmer | Problem Solving Enthusiast 
-
+- 💻 Aspiring Full Stack Developer | developer from India | Java Programmer | Hackerrank Programmer | Problem Solving Enthusiast 
 
 - 📔 Currently pursuing B.Tech in Computer Science & Engineering.
 
