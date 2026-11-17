@@ -1,17 +1,14 @@
 
 # 👋 Hi, I'm Khushal Raut
 
-### 💻 Aspiring Full Stack Developer | Java Programmer | Problem Solving Enthusiast
+### 💻 Aspiring Full Stack Developer | developer from India | Java Programmer | Hackerrank Programmer | Problem Solving Enthusiast 
 
-## 💫 About Me:
 
-👨‍💻 I'm an aspiring developer from India 🇮🇳 passionate about programming and technology.
+# Currently pursuing B.Tech in Computer Science & Engineering.
 
-🎓 Currently pursuing B.Tech in Electrical Engineering.
+#  [Coding Profile](https://linktr.ee/khushalraut706)
 
-🌱 Currently learning Full Stack Development (MERN Stack).
-
-💻 Interested in Web Development, Java, Python and Data Structures & Algorithms.
+🌱 Currently learning Full Stack Development 
 
 🔭 Building real-world projects to improve my development skills.
 
