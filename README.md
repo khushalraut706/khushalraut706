@@ -4,21 +4,21 @@
 ### 💻 Aspiring Full Stack Developer | developer from India | Java Programmer | Hackerrank Programmer | Problem Solving Enthusiast 
 
 
-# Currently pursuing B.Tech in Computer Science & Engineering.
+- 📔 Currently pursuing B.Tech in Computer Science & Engineering.
 
-#  [Coding Profile](https://linktr.ee/khushalraut706)
+- 👨‍💻 [Coding Profile](https://linktr.ee/khushalraut706)
 
-🌱 Currently learning Full Stack Development 
+- 🔭 I’m Currently Studing in Final Year
 
-🔭 Building real-world projects to improve my development skills.
+- 📘 I’m Currently learning full Stack Developmen
 
-👯 Looking to collaborate on Open Source Projects.
+- 👯 Looking to collaborate on Open Source Projects.
 
-⚡ Fun Fact: I love learning new technologies and solving coding challenges.
+- ⚡ Fun Fact: Games,Mems
 
-📫 Reach me: [khushalraut706@gmail.com](mailto:khushalraut706@gmail.com)
+- 📫 How to Reach me: [khushalraut706@gmail.com](mailto:khushalraut706@gmail.com)
 
-🔗 [LinkedIn](https://linkedin.com/in/khushal-raut-a613a8290) | [GitHub](https://github.com/khushalraut706) | [Linktree](https://linktr.ee/khushalraut706)
+- 🔗 [LinkedIn](https://linkedin.com/in/khushal-raut-a613a8290) | [GitHub](https://github.com/khushalraut706) 
 
 ---
 
